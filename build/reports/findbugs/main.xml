@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.0" sequence="0" timestamp="1426821734183" analysisTimestamp="1426821734273" release="">
+  <Project projectName="">
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Board.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/BoomTile.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Dictionary.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Game.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/GameChangeListener.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/LetterTile.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Location.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Move$1.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Move.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/NegativeTile.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Placement.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Player.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Rack.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/ReverseTile.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/SpecialTile.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/SpecialTileInventory.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/SpecialTileStore.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Square.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/SwitchTile.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/TileBag.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/Word.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/core/ZeroTile.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/BoardPanel.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/BuySpecialListener.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ClickLetterListener.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ClickSpecialListener.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ControlPanel$1.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ControlPanel$2.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ControlPanel$3.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ControlPanel$4.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ControlPanel$5.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ControlPanel.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/GamePanel.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/PlayerPanel.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ScrabbleUI$1.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ScrabbleUI$2.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ScrabbleUI$3.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/ScrabbleUI.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/SquareListener.class</Jar>
+    <Jar>/Users/xinyuewu/xinyuew/homework/4/build/classes/main/edu/cmu/cs/cs214/hw4/gui/StatusPanel.class</Jar>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Board.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/BoomTile.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Dictionary.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Game.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/GameChangeListener.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/LetterTile.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Location.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Move.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/NegativeTile.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Placement.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Player.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Rack.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ReverseTile.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTile.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTileInventory.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTileStore.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Square.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SwitchTile.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/TileBag.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Word.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ZeroTile.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BuySpecialListener.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ClickLetterListener.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ClickSpecialListener.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ControlPanel.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/GamePanel.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/PlayerPanel.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ScrabbleUI.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/SquareListener.java</SrcDir>
+    <SrcDir>/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/StatusPanel.java</SrcDir>
+  </Project>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Dictionary">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Dictionary" start="23" end="63" sourcefile="Dictionary.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Dictionary.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Dictionary" name="initialize" signature="()V" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Dictionary" start="34" end="52" startBytecode="0" endBytecode="354" sourcefile="Dictionary.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Dictionary.java"/>
+    </Method>
+    <Method classname="java.util.Scanner" name="&lt;init&gt;" signature="(Ljava/io/InputStream;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.util.Scanner" start="563" end="564" startBytecode="0" endBytecode="43" sourcefile="Scanner.java" sourcepath="java/util/Scanner.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Dictionary" start="35" end="35" startBytecode="17" endBytecode="17" sourcefile="Dictionary.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Dictionary.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="2" rank="17" abbrev="DLS" category="STYLE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Game">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="35" end="594" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Game" name="exchange" signature="(Ljava/util/ArrayList;)Z" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="157" end="185" startBytecode="0" endBytecode="66" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    </Method>
+    <LocalVariable name="newTiles" register="2" pc="58" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="164" end="164" startBytecode="57" endBytecode="57" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.KILLED_BY_SUBSEQUENT_STORE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.METHOD_RESULT" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="newTiles"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.DEAD_OBJECT_STORE" value="true"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="2" rank="17" abbrev="DLS" category="STYLE">
+    <Class classname="edu.cmu.cs.cs214.hw4.core.Game">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="35" end="594" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.core.Game" name="isValid" signature="(Ledu/cmu/cs/cs214/hw4/core/Move;)Z" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="216" end="271" startBytecode="0" endBytecode="95" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    </Method>
+    <LocalVariable name="words" register="2" pc="102" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.core.Game" start="254" end="254" startBytecode="101" endBytecode="101" sourcefile="Game.java" sourcepath="edu/cmu/cs/cs214/hw4/core/Game.java"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.KILLED_BY_SUBSEQUENT_STORE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.METHOD_RESULT" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="words"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.DEAD_OBJECT_STORE" value="true"/>
+  </BugInstance>
+  <BugInstance type="DM_EXIT" priority="2" rank="16" abbrev="Dm" category="BAD_PRACTICE">
+    <Class classname="edu.cmu.cs.cs214.hw4.gui.GamePanel">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.GamePanel" start="31" end="100" sourcefile="GamePanel.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/GamePanel.java"/>
+    </Class>
+    <Method classname="edu.cmu.cs.cs214.hw4.gui.GamePanel" name="gameEnded" signature="(Ledu/cmu/cs/cs214/hw4/core/Player;)V" isStatic="false">
+      <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.GamePanel" start="84" end="94" startBytecode="0" endBytecode="136" sourcefile="GamePanel.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/GamePanel.java"/>
+    </Method>
+    <SourceLine classname="edu.cmu.cs.cs214.hw4.gui.GamePanel" start="92" end="92" startBytecode="41" endBytecode="41" sourcefile="GamePanel.java" sourcepath="edu/cmu/cs/cs214/hw4/gui/GamePanel.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Thu, 19 Mar 2015 23:22:14 -0400" total_classes="40" referenced_classes="335" total_bugs="4" total_size="1738" num_packages="2" java_version="1.8.0_20" vm_version="25.20-b23" cpu_seconds="18.20" clock_seconds="5.96" peak_mbytes="347.61" alloc_mbytes="1820.50" gc_seconds="0.16" priority_2="3" priority_1="1">
+    <PackageStats package="edu.cmu.cs.cs214.hw4.core" total_bugs="3" total_types="22" total_size="1164" priority_2="2" priority_1="1">
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Board" sourceFile="Board.java" interface="false" size="291" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.BoomTile" sourceFile="BoomTile.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Dictionary" sourceFile="Dictionary.java" interface="false" size="30" bugs="1" priority_1="1"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Game" sourceFile="Game.java" interface="false" size="292" bugs="2" priority_2="2"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.GameChangeListener" sourceFile="GameChangeListener.java" interface="true" size="8" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.LetterTile" sourceFile="LetterTile.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Location" sourceFile="Location.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Move" sourceFile="Move.java" interface="false" size="94" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Move$1" sourceFile="Move.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.NegativeTile" sourceFile="NegativeTile.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Placement" sourceFile="Placement.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Player" sourceFile="Player.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Rack" sourceFile="Rack.java" interface="false" size="36" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.ReverseTile" sourceFile="ReverseTile.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.SpecialTile" sourceFile="SpecialTile.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.SpecialTileInventory" sourceFile="SpecialTileInventory.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.SpecialTileStore" sourceFile="SpecialTileStore.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Square" sourceFile="Square.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.SwitchTile" sourceFile="SwitchTile.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.TileBag" sourceFile="TileBag.java" interface="false" size="64" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.Word" sourceFile="Word.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.core.ZeroTile" sourceFile="ZeroTile.java" interface="false" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs.cs214.hw4.gui" total_bugs="1" total_types="18" total_size="574" priority_2="1">
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.BoardPanel" sourceFile="BoardPanel.java" interface="false" size="99" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.BuySpecialListener" sourceFile="BuySpecialListener.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ClickLetterListener" sourceFile="ClickLetterListener.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ClickSpecialListener" sourceFile="ClickSpecialListener.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ControlPanel" sourceFile="ControlPanel.java" interface="false" size="123" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ControlPanel$1" sourceFile="ControlPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ControlPanel$2" sourceFile="ControlPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ControlPanel$3" sourceFile="ControlPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ControlPanel$4" sourceFile="ControlPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ControlPanel$5" sourceFile="ControlPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.GamePanel" sourceFile="GamePanel.java" interface="false" size="47" bugs="1" priority_2="1"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.PlayerPanel" sourceFile="PlayerPanel.java" interface="false" size="121" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ScrabbleUI" sourceFile="ScrabbleUI.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ScrabbleUI$1" sourceFile="ScrabbleUI.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ScrabbleUI$2" sourceFile="ScrabbleUI.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.ScrabbleUI$3" sourceFile="ScrabbleUI.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.SquareListener" sourceFile="SquareListener.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="edu.cmu.cs.cs214.hw4.gui.StatusPanel" sourceFile="StatusPanel.java" interface="false" size="17" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="701" invocations="1564" avgMicrosecondsPerInvocation="448" maxMicrosecondsPerInvocation="37445" standardDeviationMircosecondsPerInvocation="1765"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="491" invocations="335" avgMicrosecondsPerInvocation="1467" maxMicrosecondsPerInvocation="27704" standardDeviationMircosecondsPerInvocation="3229"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="326" invocations="904" avgMicrosecondsPerInvocation="361" maxMicrosecondsPerInvocation="7530" standardDeviationMircosecondsPerInvocation="495"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="298" invocations="1568" avgMicrosecondsPerInvocation="190" maxMicrosecondsPerInvocation="10142" standardDeviationMircosecondsPerInvocation="667"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="194" invocations="233" avgMicrosecondsPerInvocation="832" maxMicrosecondsPerInvocation="13466" standardDeviationMircosecondsPerInvocation="1657"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="192" invocations="255" avgMicrosecondsPerInvocation="753" maxMicrosecondsPerInvocation="12228" standardDeviationMircosecondsPerInvocation="1532"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="174" invocations="233" avgMicrosecondsPerInvocation="750" maxMicrosecondsPerInvocation="9704" standardDeviationMircosecondsPerInvocation="1370"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="156" invocations="233" avgMicrosecondsPerInvocation="672" maxMicrosecondsPerInvocation="12653" standardDeviationMircosecondsPerInvocation="1349"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="153" invocations="335" avgMicrosecondsPerInvocation="458" maxMicrosecondsPerInvocation="12054" standardDeviationMircosecondsPerInvocation="1151"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="143" invocations="232" avgMicrosecondsPerInvocation="616" maxMicrosecondsPerInvocation="7356" standardDeviationMircosecondsPerInvocation="1050"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="120" invocations="1518" avgMicrosecondsPerInvocation="79" maxMicrosecondsPerInvocation="17616" standardDeviationMircosecondsPerInvocation="527"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="117" invocations="233" avgMicrosecondsPerInvocation="506" maxMicrosecondsPerInvocation="14722" standardDeviationMircosecondsPerInvocation="1079"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="105" invocations="335" avgMicrosecondsPerInvocation="315" maxMicrosecondsPerInvocation="14395" standardDeviationMircosecondsPerInvocation="1648"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="99" invocations="381" avgMicrosecondsPerInvocation="260" maxMicrosecondsPerInvocation="24441" standardDeviationMircosecondsPerInvocation="1286"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="98" invocations="335" avgMicrosecondsPerInvocation="295" maxMicrosecondsPerInvocation="10036" standardDeviationMircosecondsPerInvocation="811"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="96" invocations="335" avgMicrosecondsPerInvocation="288" maxMicrosecondsPerInvocation="16688" standardDeviationMircosecondsPerInvocation="1022"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="96" invocations="170" avgMicrosecondsPerInvocation="567" maxMicrosecondsPerInvocation="7108" standardDeviationMircosecondsPerInvocation="891"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="96" invocations="241" avgMicrosecondsPerInvocation="399" maxMicrosecondsPerInvocation="56137" standardDeviationMircosecondsPerInvocation="3634"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="92" invocations="335" avgMicrosecondsPerInvocation="275" maxMicrosecondsPerInvocation="4905" standardDeviationMircosecondsPerInvocation="536"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="87" invocations="335" avgMicrosecondsPerInvocation="260" maxMicrosecondsPerInvocation="8514" standardDeviationMircosecondsPerInvocation="648"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="67" invocations="335" avgMicrosecondsPerInvocation="202" maxMicrosecondsPerInvocation="10168" standardDeviationMircosecondsPerInvocation="648"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.RuntimeExceptionCapture" totalMilliseconds="64" invocations="40" avgMicrosecondsPerInvocation="1623" maxMicrosecondsPerInvocation="52798" standardDeviationMircosecondsPerInvocation="8209"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

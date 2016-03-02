@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Board.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/BoomTile.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Dictionary.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Game.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/GameChangeListener.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/LetterTile.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Location.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Move.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/NegativeTile.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Placement.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Player.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Rack.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ReverseTile.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTile.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTileInventory.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SpecialTileStore.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Square.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/SwitchTile.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/TileBag.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/Word.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/ZeroTile.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BuySpecialListener.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ClickLetterListener.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ClickSpecialListener.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ControlPanel.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/GamePanel.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/PlayerPanel.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ScrabbleUI.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/SquareListener.java">
+</file>
+<file name="/Users/xinyuewu/xinyuew/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/StatusPanel.java">
+</file>
+</checkstyle>

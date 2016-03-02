@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cs.cs214.hw4.core.TileBagTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-03-20T03:22:27" hostname="wuxinyuedeMacBook-Pro.local" time="0.057">
+  <properties/>
+  <testcase name="testGetRandomTile" classname="edu.cmu.cs.cs214.hw4.core.TileBagTest" time="0.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

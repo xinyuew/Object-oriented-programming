@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cmu.cs.cs214.hw4.core.GameTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2015-03-20T03:22:26" hostname="wuxinyuedeMacBook-Pro.local" time="0.521">
+  <properties/>
+  <testcase name="testExchange" classname="edu.cmu.cs.cs214.hw4.core.GameTest" time="0.075"/>
+  <testcase name="testStartGame" classname="edu.cmu.cs.cs214.hw4.core.GameTest" time="0.142"/>
+  <testcase name="testMove" classname="edu.cmu.cs.cs214.hw4.core.GameTest" time="0.107"/>
+  <testcase name="testBuySpecialTile" classname="edu.cmu.cs.cs214.hw4.core.GameTest" time="0.066"/>
+  <testcase name="testReverseOrder" classname="edu.cmu.cs.cs214.hw4.core.GameTest" time="0.064"/>
+  <testcase name="testNextTurn" classname="edu.cmu.cs.cs214.hw4.core.GameTest" time="0.065"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
